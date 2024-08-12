@@ -31,7 +31,7 @@ Pympler==1.1
 pyrsistent==0.19.3
 python-dateutil==2.9.0.post0
 pytz
-pywin32==306
+pywin32
 requests==2.31.0
 rich==13.7.1
 six==1.16.0
